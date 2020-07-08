@@ -14,7 +14,7 @@
     </scm>
     <properties>
         <spring.framework.version>3.0.2.RELEASE</spring.framework.version>
-        <spring.batch.version>2.1.0.RELEASE</spring.batch.version>
+        <spring.batch.version>4.2.4.RELEASE</spring.batch.version>
         <aspectj.version>1.6.8</aspectj.version>
         <slf4j.version>1.5.11</slf4j.version>
     </properties>
